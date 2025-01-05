@@ -2,7 +2,7 @@
 
 The Course Section Allocation System is a new software application that helps educational institutions assign courses to faculty members. The system replaces manual processes and interfaces with existing student information systems and user authentication systems. It generates schedules based on business rules and generates reports and class routines based on faculty and course schedules. The system is a standalone application that exports data to other systems as needed.
 
-Product Functions
+**Product Functions**
 
 The Course Section Allocation System must be able to perform the following major functions:
 
@@ -20,7 +20,7 @@ The Course Section Allocation System must be able to perform the following major
  
  7.Export data to other systems as needed.
 
-Software Components
+**Software Components**
 
 The web-based application will be built using the MERN stack, which includes the following software components:
 
