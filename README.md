@@ -4,7 +4,7 @@ The Course Section Allocation System is a new software application that helps ed
 
 Product Functions
 The Course Section Allocation System must be able to perform the following major functions:
-
+### 1.
 Allow administrators to input and manage course information, including course name, room number. number of credits, section, day and times.
 Allow administrators to input and manage faculty information, including faculty name, designation, email, EXT, room number, department, mobile number and maximum number of credits that can be assigned.
 Generate schedules based on business rules, such as not assigning more than 11 credits to a faculty member and not assigning multiple classes in the same slot for a particular faculty member.
